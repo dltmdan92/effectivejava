@@ -1,5 +1,9 @@
 package ObjectCreationDescruction.builder;
 
+/**
+ * 점층적 생성자 패턴,
+ * 생성자가 과도하게 많아짐에 따라 단점이 많이 발생하게 된다.
+ */
 public class GradualContructorPattern {
 
     private final int servingSize;
