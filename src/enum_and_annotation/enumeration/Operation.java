@@ -1,4 +1,4 @@
-package generic.enumeration;
+package enum_and_annotation.enumeration;
 
 import java.util.Map;
 import java.util.Optional;

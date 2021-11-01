@@ -1,7 +1,7 @@
-package generic.enumeration;
+package enum_and_annotation.enumeration;
 
-import static generic.enumeration.PayrollDay.PayType.WEEKDAY;
-import static generic.enumeration.PayrollDay.PayType.WEEKEND;
+import static enum_and_annotation.enumeration.PayrollDay.PayType.WEEKDAY;
+import static enum_and_annotation.enumeration.PayrollDay.PayType.WEEKEND;
 
 /**
  * 전략 열거 타입 패턴
